@@ -1,3 +1,7 @@
+# Make sure all packages are installed
+install.packages(c("shiny", "shinydashboard", "plotly", "DT", 
+                   "tidyverse", "shinyjs", "shinycssloaders", "fresh"))
+
 # Load required libraries
 library(shiny)
 library(shinydashboard)
