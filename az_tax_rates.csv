@@ -1,0 +1,1361 @@
+"","city","year","tax_type","tax_rate"
+"1","Apache Junction",2024,"Advertising",2.4
+"2","Apache Junction",2024,"Amusements",2.4
+"3","Apache Junction",2024,"Commercial Rental",2.2
+"4","Apache Junction",2024,"Contracting-Owner Builder",2.4
+"5","Apache Junction",2024,"Contracting-Prime",2.4
+"6","Apache Junction",2024,"Contracting-Speculative Builders",2.4
+"7","Apache Junction",2024,"Feed at Wholesale",2.4
+"8","Apache Junction",2024,"Food for Home Consumption",2.4
+"9","Apache Junction",2024,"Hotel/Motel Additional",2.4
+"10","Apache Junction",2024,"Hotels",2.4
+"11","Apache Junction",2024,"Job Printing",2.4
+"12","Apache Junction",2024,"Manufactured Buildings",2.4
+"13","Apache Junction",2024,"Publication",2.4
+"14","Apache Junction",2024,"Rental Occupancy",2.2
+"15","Apache Junction",2024,"Residential Rental",2.2
+"16","Apache Junction",2024,"Restaurant and Bars",2.4
+"17","Apache Junction",2024,"Retail Sales",2.4
+"18","Apache Junction",2024,"Retail Sales Over $2000",1.4
+"19","Apache Junction",2024,"TPP Rental",2.4
+"20","Avondale",2024,"Advertising",2.5
+"21","Avondale",2024,"Amusements",2.5
+"22","Avondale",2024,"Commercial Rental",2.5
+"23","Avondale",2024,"Contracting-Owner Builder",2.5
+"24","Avondale",2024,"Contracting-Prime",2.5
+"25","Avondale",2024,"Contracting-Speculative Builders",2.5
+"26","Avondale",2024,"Food for Home Consumption",2.5
+"27","Avondale",2024,"Hotel/Motel Additional",2
+"28","Avondale",2024,"Hotels",2.5
+"29","Avondale",2024,"Job Printing",2.5
+"30","Avondale",2024,"Manufactured Buildings",2.5
+"31","Avondale",2024,"Publication",2.5
+"32","Avondale",2024,"Residential Rental",2.5
+"33","Avondale",2024,"Restaurant and Bars",2.5
+"34","Avondale",2024,"Retail Sales",2.5
+"35","Avondale",2024,"Retail Sales Over $5000",1.5
+"36","Avondale",2024,"TPP Rental",2.5
+"37","Benson",2024,"Advertising",3.5
+"38","Benson",2024,"Amusements",3.5
+"39","Benson",2024,"Commercial Rental",2.5
+"40","Benson",2024,"Contracting-Owner Builder",4
+"41","Benson",2024,"Contracting-Prime",4
+"42","Benson",2024,"Contracting-Speculative Builders",4
+"43","Benson",2024,"Food for Home Consumption",3.5
+"44","Benson",2024,"Hotel/Motel Additional",2
+"45","Benson",2024,"Hotels",3.5
+"46","Benson",2024,"Job Printing",3.5
+"47","Benson",2024,"Manufactured Buildings",3.5
+"48","Benson",2024,"Publication",3.5
+"49","Benson",2024,"Residential Rental",2.5
+"50","Benson",2024,"Restaurant and Bars",3.5
+"51","Benson",2024,"Retail Sales",3.5
+"52","Benson",2024,"Retail Sales Over $5000",1
+"53","Benson",2024,"TPP Rental",2.5
+"54","Bisbee",2024,"Advertising",3.5
+"55","Bisbee",2024,"Amusements",3.5
+"56","Bisbee",2024,"Commercial Rental",3.5
+"57","Bisbee",2024,"Contracting-Owner Builder",3.5
+"58","Bisbee",2024,"Contracting-Prime",3.5
+"59","Bisbee",2024,"Contracting-Speculative Builders",3.5
+"60","Bisbee",2024,"Hotel/Motel Additional",5
+"61","Bisbee",2024,"Hotels",3.5
+"62","Bisbee",2024,"Job Printing",3.5
+"63","Bisbee",2024,"Manufactured Buildings",3.5
+"64","Bisbee",2024,"Publication",3.5
+"65","Bisbee",2024,"Residential Rental",3.5
+"66","Bisbee",2024,"Restaurant and Bars",3.5
+"67","Bisbee",2024,"TPP Rental",3.5
+"68","Buckeye",2024,"Advertising",3
+"69","Buckeye",2024,"Amusements",3
+"70","Buckeye",2024,"Commercial Rental",2
+"71","Buckeye",2024,"Contracting-Owner Builder",3
+"72","Buckeye",2024,"Contracting-Prime",3
+"73","Buckeye",2024,"Contracting-Speculative Builders",3
+"74","Buckeye",2024,"Feed at Wholesale",3
+"75","Buckeye",2024,"Food for Home Consumption",3
+"76","Buckeye",2024,"Hotel/Motel Additional",3
+"77","Buckeye",2024,"Hotels",3
+"78","Buckeye",2024,"Job Printing",3
+"79","Buckeye",2024,"Manufactured Buildings",3
+"80","Buckeye",2024,"Publication",3
+"81","Buckeye",2024,"Rental Occupancy",2
+"82","Buckeye",2024,"Residential Rental",2
+"83","Buckeye",2024,"Restaurant and Bars",3
+"84","Buckeye",2024,"Retail Sales",3
+"85","Buckeye",2024,"TPP Rental",3
+"86","Bullhead City",2024,"Advertising",2
+"87","Bullhead City",2024,"Amusements",2
+"88","Bullhead City",2024,"Commercial Rental",2
+"89","Bullhead City",2024,"Contracting-Owner Builder",2
+"90","Bullhead City",2024,"Contracting-Prime",2
+"91","Bullhead City",2024,"Contracting-Speculative Builders",2
+"92","Bullhead City",2024,"Hotel/Motel Additional",3
+"93","Bullhead City",2024,"Hotels",2
+"94","Bullhead City",2024,"Job Printing",2
+"95","Bullhead City",2024,"Manufactured Buildings",2
+"96","Bullhead City",2024,"Publication",2
+"97","Bullhead City",2024,"Restaurant and Bars",2
+"98","Bullhead City",2024,"TPP Rental",2
+"99","Camp Verde",2024,"Advertising",3.65
+"100","Camp Verde",2024,"Amusements",3.65
+"101","Camp Verde",2024,"Commercial Rental",2
+"102","Camp Verde",2024,"Contracting-Owner Builder",3.65
+"103","Camp Verde",2024,"Contracting-Prime",3.65
+"104","Camp Verde",2024,"Contracting-Speculative Builders",3.65
+"105","Camp Verde",2024,"Hotel/Motel Additional",3
+"106","Camp Verde",2024,"Hotels",3.65
+"107","Camp Verde",2024,"Job Printing",3.65
+"108","Camp Verde",2024,"Manufactured Buildings",3.65
+"109","Camp Verde",2024,"Publication",3.65
+"110","Camp Verde",2024,"Residential Rental",2
+"111","Camp Verde",2024,"Restaurant and Bars",3.65
+"112","Camp Verde",2024,"Retail Sales",3.65
+"113","Camp Verde",2024,"TPP Rental",3.65
+"114","Carefree",2024,"Advertising",3
+"115","Carefree",2024,"Amusements",3
+"116","Carefree",2024,"Commercial Rental",3
+"117","Carefree",2024,"Contracting-Owner Builder",4
+"118","Carefree",2024,"Contracting-Prime",4
+"119","Carefree",2024,"Contracting-Speculative Builders",4
+"120","Carefree",2024,"Hotel/Motel Additional",3
+"121","Carefree",2024,"Hotels",3
+"122","Carefree",2024,"Job Printing",3
+"123","Carefree",2024,"Manufactured Buildings",3
+"124","Carefree",2024,"Publication",3
+"125","Carefree",2024,"Residential Rental",3
+"126","Carefree",2024,"Restaurant and Bars",3
+"127","Carefree",2024,"TPP Rental",3
+"128","Casa Grande",2024,"Advertising",1.8
+"129","Casa Grande",2024,"Amusements",1.8
+"130","Casa Grande",2024,"Commercial Rental",1.8
+"131","Casa Grande",2024,"Contracting-Owner Builder",4
+"132","Casa Grande",2024,"Contracting-Prime",4
+"133","Casa Grande",2024,"Contracting-Speculative Builders",4
+"134","Casa Grande",2024,"Food for Home Consumption",2
+"135","Casa Grande",2024,"Hotel/Motel Additional",5
+"136","Casa Grande",2024,"Hotels",1.8
+"137","Casa Grande",2024,"Job Printing",1.8
+"138","Casa Grande",2024,"Manufactured Buildings",1.8
+"139","Casa Grande",2024,"Publication",1.8
+"140","Casa Grande",2024,"Residential Rental",1.8
+"141","Casa Grande",2024,"Restaurant and Bars",1.8
+"142","Casa Grande",2024,"Retail Sales",2
+"143","Casa Grande",2024,"TPP Rental",1.8
+"144","Cave Creek",2024,"Advertising",3
+"145","Cave Creek",2024,"Amusements",3
+"146","Cave Creek",2024,"Commercial Rental",3
+"147","Cave Creek",2024,"Contracting-Owner Builder",5
+"148","Cave Creek",2024,"Contracting-Prime",5
+"149","Cave Creek",2024,"Contracting-Speculative Builders",5
+"150","Cave Creek",2024,"Feed at Wholesale",3
+"151","Cave Creek",2024,"Hotel/Motel Additional",4
+"152","Cave Creek",2024,"Hotels",3
+"153","Cave Creek",2024,"Job Printing",3
+"154","Cave Creek",2024,"Manufactured Buildings",3
+"155","Cave Creek",2024,"Publication",3
+"156","Cave Creek",2024,"Rental Occupancy",3
+"157","Cave Creek",2024,"Residential Rental",3
+"158","Cave Creek",2024,"Restaurant and Bars",3
+"159","Cave Creek",2024,"TPP Rental",3
+"160","Chandler",2024,"Advertising",1.5
+"161","Chandler",2024,"Amusements",1.5
+"162","Chandler",2024,"Commercial Rental",1.5
+"163","Chandler",2024,"Contracting-Owner Builder",1.5
+"164","Chandler",2024,"Contracting-Prime",1.5
+"165","Chandler",2024,"Contracting-Speculative Builders",1.5
+"166","Chandler",2024,"Food for Home Consumption",1.5
+"167","Chandler",2024,"Hotel/Motel Additional",2.9
+"168","Chandler",2024,"Hotels",1.5
+"169","Chandler",2024,"Jet Fuel",0.023
+"170","Chandler",2024,"Job Printing",1.5
+"171","Chandler",2024,"Manufactured Buildings",1.5
+"172","Chandler",2024,"Publication",1.5
+"173","Chandler",2024,"Residential Rental",1.5
+"174","Chandler",2024,"Restaurant and Bars",1.8
+"175","Chandler",2024,"Retail Sales",1.5
+"176","Chandler",2024,"TPP Rental",1.5
+"177","Chino Valley",2024,"Advertising",4
+"178","Chino Valley",2024,"Amusements",4
+"179","Chino Valley",2024,"Commercial Rental",3
+"180","Chino Valley",2024,"Contracting-Owner Builder",4
+"181","Chino Valley",2024,"Contracting-Prime",4
+"182","Chino Valley",2024,"Contracting-Speculative Builders",4
+"183","Chino Valley",2024,"Hotel/Motel Additional",4
+"184","Chino Valley",2024,"Hotels",4
+"185","Chino Valley",2024,"Jet Fuel",0.015
+"186","Chino Valley",2024,"Job Printing",4
+"187","Chino Valley",2024,"Manufactured Buildings",2
+"188","Chino Valley",2024,"Publication",4
+"189","Chino Valley",2024,"Rental Occupancy",3
+"190","Chino Valley",2024,"Residential Rental",3
+"191","Chino Valley",2024,"Restaurant and Bars",4
+"192","Chino Valley",2024,"Retail Sales",4
+"193","Chino Valley",2024,"TPP Rental",4
+"194","Clarkdale",2024,"Advertising",3.5
+"195","Clarkdale",2024,"Amusements",3.5
+"196","Clarkdale",2024,"Commercial Rental",3
+"197","Clarkdale",2024,"Contracting-Owner Builder",4.5
+"198","Clarkdale",2024,"Contracting-Prime",4.5
+"199","Clarkdale",2024,"Contracting-Speculative Builders",4.5
+"200","Clarkdale",2024,"Hotel/Motel Additional",2
+"201","Clarkdale",2024,"Hotels",3.5
+"202","Clarkdale",2024,"Job Printing",3.5
+"203","Clarkdale",2024,"Manufactured Buildings",3.5
+"204","Clarkdale",2024,"Publication",3.5
+"205","Clarkdale",2024,"Residential Rental",3
+"206","Clarkdale",2024,"Restaurant and Bars",3.5
+"207","Clarkdale",2024,"TPP Rental",3.5
+"208","Clifton",2024,"Advertising",3
+"209","Clifton",2024,"Amusements",3
+"210","Clifton",2024,"Commercial Rental",3
+"211","Clifton",2024,"Contracting-Owner Builder",3
+"212","Clifton",2024,"Contracting-Prime",3
+"213","Clifton",2024,"Contracting-Speculative Builders",3
+"214","Clifton",2024,"Hotels",3
+"215","Clifton",2024,"Job Printing",3
+"216","Clifton",2024,"Manufactured Buildings",3
+"217","Clifton",2024,"Publication",3
+"218","Clifton",2024,"Residential Rental",3
+"219","Clifton",2024,"Restaurant and Bars",3
+"220","Clifton",2024,"Retail Sales",3
+"221","Clifton",2024,"TPP Rental",3
+"222","Colorado City",2024,"Advertising",3
+"223","Colorado City",2024,"Amusements",7
+"224","Colorado City",2024,"Commercial Rental",2
+"225","Colorado City",2024,"Contracting-Owner Builder",2
+"226","Colorado City",2024,"Contracting-Prime",2
+"227","Colorado City",2024,"Contracting-Speculative Builders",2
+"228","Colorado City",2024,"Hotel/Motel Additional",7
+"229","Colorado City",2024,"Hotels",7
+"230","Colorado City",2024,"Job Printing",2
+"231","Colorado City",2024,"Manufactured Buildings",2
+"232","Colorado City",2024,"Publication",2
+"233","Colorado City",2024,"Residential Rental",2
+"234","Colorado City",2024,"Restaurant and Bars",3.5
+"235","Colorado City",2024,"TPP Rental",2
+"236","Coolidge",2024,"Advertising",3
+"237","Coolidge",2024,"Amusements",3
+"238","Coolidge",2024,"Commercial Rental",3
+"239","Coolidge",2024,"Contracting-Owner Builder",4
+"240","Coolidge",2024,"Contracting-Prime",4
+"241","Coolidge",2024,"Contracting-Speculative Builders",4
+"242","Coolidge",2024,"Feed at Wholesale",3
+"243","Coolidge",2024,"Hotel/Motel Additional",3
+"244","Coolidge",2024,"Hotels",3
+"245","Coolidge",2024,"Job Printing",3
+"246","Coolidge",2024,"Manufactured Buildings",3
+"247","Coolidge",2024,"Publication",3
+"248","Coolidge",2024,"Rental Occupancy",3
+"249","Coolidge",2024,"Residential Rental",3
+"250","Coolidge",2024,"Restaurant and Bars",3
+"251","Coolidge",2024,"Retail Sales",3
+"252","Coolidge",2024,"TPP Rental",3
+"253","Cottonwood",2024,"Advertising",3.5
+"254","Cottonwood",2024,"Amusements",3.5
+"255","Cottonwood",2024,"Commercial Rental",3.5
+"256","Cottonwood",2024,"Contracting-Owner Builder",4.5
+"257","Cottonwood",2024,"Contracting-Prime",4.5
+"258","Cottonwood",2024,"Contracting-Speculative Builders",4.5
+"259","Cottonwood",2024,"Hotel/Motel Additional",3.5
+"260","Cottonwood",2024,"Hotels",3.5
+"261","Cottonwood",2024,"Job Printing",3.5
+"262","Cottonwood",2024,"Manufactured Buildings",3.5
+"263","Cottonwood",2024,"Publication",3.5
+"264","Cottonwood",2024,"Rental Occupancy",3.5
+"265","Cottonwood",2024,"Residential Rental",3
+"266","Cottonwood",2024,"Restaurant and Bars",3.5
+"267","Cottonwood",2024,"Retail Sales",3.5
+"268","Cottonwood",2024,"TPP Rental",3.5
+"269","Dewey-Humboldt",2024,"Advertising",2
+"270","Dewey-Humboldt",2024,"Amusements",2
+"271","Dewey-Humboldt",2024,"Commercial Rental",2
+"272","Dewey-Humboldt",2024,"Contracting-Owner Builder",2
+"273","Dewey-Humboldt",2024,"Contracting-Prime",2
+"274","Dewey-Humboldt",2024,"Contracting-Speculative Builders",2
+"275","Dewey-Humboldt",2024,"Hotel/Motel Additional",2
+"276","Dewey-Humboldt",2024,"Hotels",2
+"277","Dewey-Humboldt",2024,"Job Printing",2
+"278","Dewey-Humboldt",2024,"Manufactured Buildings",2
+"279","Dewey-Humboldt",2024,"Publication",2
+"280","Dewey-Humboldt",2024,"Residential Rental",2
+"281","Dewey-Humboldt",2024,"Restaurant and Bars",2
+"282","Dewey-Humboldt",2024,"TPP Rental",2
+"283","Douglas",2024,"Advertising",3.8
+"284","Douglas",2024,"Amusements",3.8
+"285","Douglas",2024,"Commercial Rental",2.8
+"286","Douglas",2024,"Contracting-Owner Builder",3.8
+"287","Douglas",2024,"Contracting-Prime",3.8
+"288","Douglas",2024,"Contracting-Speculative Builders",3.8
+"289","Douglas",2024,"Feed at Wholesale",3.8
+"290","Douglas",2024,"Hotel/Motel Additional",4
+"291","Douglas",2024,"Hotels",3.8
+"292","Douglas",2024,"Job Printing",3.8
+"293","Douglas",2024,"Manufactured Buildings",3.8
+"294","Douglas",2024,"Publication",3.8
+"295","Douglas",2024,"Rental Occupancy",2.8
+"296","Douglas",2024,"Residential Rental",2.8
+"297","Douglas",2024,"Restaurant and Bars",3.8
+"298","Douglas",2024,"Retail Sales",3.8
+"299","Douglas",2024,"TPP Rental",3.8
+"300","Duncan",2024,"Advertising",2
+"301","Duncan",2024,"Amusements",2
+"302","Duncan",2024,"Commercial Rental",2
+"303","Duncan",2024,"Contracting-Owner Builder",2
+"304","Duncan",2024,"Contracting-Prime",2
+"305","Duncan",2024,"Contracting-Speculative Builders",2
+"306","Duncan",2024,"Hotel/Motel Additional",3
+"307","Duncan",2024,"Hotels",2
+"308","Duncan",2024,"Job Printing",2
+"309","Duncan",2024,"Manufactured Buildings",2
+"310","Duncan",2024,"Publication",2
+"311","Duncan",2024,"Residential Rental",2
+"312","Duncan",2024,"Restaurant and Bars",2
+"313","Duncan",2024,"TPP Rental",2
+"314","Eagar",2024,"Amusements",3
+"315","Eagar",2024,"Commercial Rental",3
+"316","Eagar",2024,"Contracting-Owner Builder",3
+"317","Eagar",2024,"Contracting-Prime",3
+"318","Eagar",2024,"Contracting-Speculative Builders",3
+"319","Eagar",2024,"Hotel/Motel Additional",3
+"320","Eagar",2024,"Hotels",3
+"321","Eagar",2024,"Job Printing",3
+"322","Eagar",2024,"Manufactured Buildings",3
+"323","Eagar",2024,"Publication",3
+"324","Eagar",2024,"Rental Occupancy",3
+"325","Eagar",2024,"Residential Rental",3
+"326","Eagar",2024,"Restaurant and Bars",3
+"327","Eagar",2024,"Retail Sales",3
+"328","Eagar",2024,"Retail Sales Over $1000",2
+"329","Eagar",2024,"TPP Rental",3
+"330","El Mirage",2024,"Advertising",3
+"331","El Mirage",2024,"Amusements",3
+"332","El Mirage",2024,"Commercial Rental",3
+"333","El Mirage",2024,"Contracting-Owner Builder",3
+"334","El Mirage",2024,"Contracting-Prime",3
+"335","El Mirage",2024,"Contracting-Speculative Builders",3
+"336","El Mirage",2024,"Hotel/Motel Additional",2
+"337","El Mirage",2024,"Hotels",3
+"338","El Mirage",2024,"Job Printing",3
+"339","El Mirage",2024,"Manufactured Buildings",3
+"340","El Mirage",2024,"Publication",3
+"341","El Mirage",2024,"Residential Rental",3
+"342","El Mirage",2024,"Restaurant and Bars",3
+"343","El Mirage",2024,"TPP Rental",3
+"344","Eloy",2024,"Advertising",3
+"345","Eloy",2024,"Amusements",3
+"346","Eloy",2024,"Commercial Rental",3
+"347","Eloy",2024,"Contracting-Owner Builder",4.5
+"348","Eloy",2024,"Contracting-Prime",4.5
+"349","Eloy",2024,"Contracting-Speculative Builders",4.5
+"350","Eloy",2024,"Hotel/Motel Additional",3
+"351","Eloy",2024,"Hotels",4
+"352","Eloy",2024,"Job Printing",3
+"353","Eloy",2024,"Manufactured Buildings",3
+"354","Eloy",2024,"Publication",3
+"355","Eloy",2024,"Rental Occupancy",3
+"356","Eloy",2024,"Residential Rental",3
+"357","Eloy",2024,"Restaurant and Bars",5
+"358","Eloy",2024,"Retail Sales",3
+"359","Eloy",2024,"Retail Sales Over $6000",1.5
+"360","Eloy",2024,"TPP Rental",3
+"361","Flagstaff",2024,"Advertising",2.281
+"362","Flagstaff",2024,"Amusements",2.281
+"363","Flagstaff",2024,"Commercial Rental",2.281
+"364","Flagstaff",2024,"Contracting-Owner Builder",2.281
+"365","Flagstaff",2024,"Contracting-Prime",2.281
+"366","Flagstaff",2024,"Contracting-Speculative Builders",2.281
+"367","Flagstaff",2024,"Feed at Wholesale",2.281
+"368","Flagstaff",2024,"Hotels",4.281
+"369","Flagstaff",2024,"Job Printing",2.281
+"370","Flagstaff",2024,"Manufactured Buildings",2.281
+"371","Flagstaff",2024,"Publication",2.281
+"372","Flagstaff",2024,"Restaurant and Bars",4.281
+"373","Flagstaff",2024,"Retail Sales",2.281
+"374","Flagstaff",2024,"TPP Rental",2.281
+"375","Florence",2024,"Advertising",2
+"376","Florence",2024,"Amusements",2
+"377","Florence",2024,"Commercial Rental",2
+"378","Florence",2024,"Contracting-Owner Builder",4
+"379","Florence",2024,"Contracting-Prime",4
+"380","Florence",2024,"Contracting-Speculative Builders",4
+"381","Florence",2024,"Hotel/Motel Additional",2
+"382","Florence",2024,"Hotels",2
+"383","Florence",2024,"Job Printing",2
+"384","Florence",2024,"Manufactured Buildings",2
+"385","Florence",2024,"Publication",2
+"386","Florence",2024,"Residential Rental",2
+"387","Florence",2024,"Restaurant and Bars",2
+"388","Florence",2024,"TPP Rental",2
+"389","Fountain Hills",2024,"Advertising",2.9
+"390","Fountain Hills",2024,"Amusements",2.9
+"391","Fountain Hills",2024,"Commercial Lease Additional",1.3
+"392","Fountain Hills",2024,"Commercial Rental",1.6
+"393","Fountain Hills",2024,"Contracting-Owner Builder",2.9
+"394","Fountain Hills",2024,"Contracting-Prime",2.9
+"395","Fountain Hills",2024,"Contracting-Speculative Builders",2.9
+"396","Fountain Hills",2024,"Hotel/Motel Additional",4
+"397","Fountain Hills",2024,"Hotels",2.9
+"398","Fountain Hills",2024,"Job Printing",2.9
+"399","Fountain Hills",2024,"Manufactured Buildings",2.9
+"400","Fountain Hills",2024,"Publication",2.9
+"401","Fountain Hills",2024,"Residential Rental",1.6
+"402","Fountain Hills",2024,"Restaurant and Bars",2.9
+"403","Fountain Hills",2024,"Retail Sales",2.9
+"404","Fountain Hills",2024,"TPP Rental",2.9
+"405","Fredonia",2024,"Advertising",4
+"406","Fredonia",2024,"Amusements",4
+"407","Fredonia",2024,"Commercial Rental",4
+"408","Fredonia",2024,"Contracting-Owner Builder",4
+"409","Fredonia",2024,"Contracting-Prime",4
+"410","Fredonia",2024,"Contracting-Speculative Builders",4
+"411","Fredonia",2024,"Hotels",4
+"412","Fredonia",2024,"Job Printing",4
+"413","Fredonia",2024,"Manufactured Buildings",4
+"414","Fredonia",2024,"Publication",4
+"415","Fredonia",2024,"Residential Rental",4
+"416","Fredonia",2024,"Restaurant and Bars",4
+"417","Fredonia",2024,"Retail Sales",4
+"418","Fredonia",2024,"TPP Rental",4
+"419","Gila Bend",2024,"Amusements",3.5
+"420","Gila Bend",2024,"Commercial Rental",3
+"421","Gila Bend",2024,"Contracting-Owner Builder",3.5
+"422","Gila Bend",2024,"Contracting-Prime",3.5
+"423","Gila Bend",2024,"Contracting-Speculative Builders",3.5
+"424","Gila Bend",2024,"Feed at Wholesale",3.5
+"425","Gila Bend",2024,"Hotel/Motel Additional",2
+"426","Gila Bend",2024,"Hotels",3.5
+"427","Gila Bend",2024,"Jet Fuel",0.03
+"428","Gila Bend",2024,"Job Printing",3.5
+"429","Gila Bend",2024,"Manufactured Buildings",3.5
+"430","Gila Bend",2024,"Publication",3.5
+"431","Gila Bend",2024,"Residential Rental",3
+"432","Gila Bend",2024,"Restaurant and Bars",3.5
+"433","Gila Bend",2024,"Retail Sales",3.5
+"434","Gila Bend",2024,"TPP Rental",3.5
+"435","Gilbert",2024,"Advertising",1.5
+"436","Gilbert",2024,"Amusements",1.5
+"437","Gilbert",2024,"Commercial Rental",1.5
+"438","Gilbert",2024,"Contracting-Owner Builder",1.5
+"439","Gilbert",2024,"Contracting-Prime",1.5
+"440","Gilbert",2024,"Contracting-Speculative Builders",1.5
+"441","Gilbert",2024,"Hotel/Motel Additional",2.8
+"442","Gilbert",2024,"Hotels",1.5
+"443","Gilbert",2024,"Job Printing",1.5
+"444","Gilbert",2024,"Manufactured Buildings",1.5
+"445","Gilbert",2024,"Publication",1.5
+"446","Gilbert",2024,"Residential Rental",1.5
+"447","Gilbert",2024,"TPP Rental",1.5
+"448","Glendale",2024,"Advertising",2.9
+"449","Glendale",2024,"Amusements",2.9
+"450","Glendale",2024,"Commercial Rental",2.9
+"451","Glendale",2024,"Contracting-Owner Builder",2.9
+"452","Glendale",2024,"Contracting-Prime",2.9
+"453","Glendale",2024,"Contracting-Speculative Builders",2.9
+"454","Glendale",2024,"Hotel/Motel Additional",5
+"455","Glendale",2024,"Hotels",2.9
+"456","Glendale",2024,"Jet Fuel",0.028
+"457","Glendale",2024,"Job Printing",2.9
+"458","Glendale",2024,"Manufactured Buildings",2.9
+"459","Glendale",2024,"Publication",2.9
+"460","Glendale",2024,"Residential Rental",2.2
+"461","Glendale",2024,"Restaurant and Bars",3.9
+"462","Glendale",2024,"Retail Sales",2.9
+"463","Glendale",2024,"Retail Sales Over $5000",2.2
+"464","Glendale",2024,"TPP Rental",2.9
+"465","Globe",2024,"Advertising",3.3
+"466","Globe",2024,"Amusements",3.3
+"467","Globe",2024,"Commercial Rental",2
+"468","Globe",2024,"Contracting-Owner Builder",3.3
+"469","Globe",2024,"Contracting-Prime",3.3
+"470","Globe",2024,"Contracting-Speculative Builders",3.3
+"471","Globe",2024,"Hotel/Motel Additional",3
+"472","Globe",2024,"Hotels",3.3
+"473","Globe",2024,"Job Printing",3.3
+"474","Globe",2024,"Manufactured Buildings",3.3
+"475","Globe",2024,"Publication",3.3
+"476","Globe",2024,"Restaurant and Bars",3.3
+"477","Globe",2024,"Retail Sales",3.3
+"478","Globe",2024,"TPP Rental",3.3
+"479","Goodyear",2024,"Advertising",2.5
+"480","Goodyear",2024,"Amusements",2.5
+"481","Goodyear",2024,"Commercial Rental",2.5
+"482","Goodyear",2024,"Contracting-Owner Builder",3.5
+"483","Goodyear",2024,"Contracting-Prime",3.5
+"484","Goodyear",2024,"Contracting-Speculative Builders",3.5
+"485","Goodyear",2024,"Hotel/Motel Additional",2.5
+"486","Goodyear",2024,"Hotels",2.5
+"487","Goodyear",2024,"Jet Fuel",0.03
+"488","Goodyear",2024,"Job Printing",2.5
+"489","Goodyear",2024,"Manufactured Buildings",2.5
+"490","Goodyear",2024,"Publication",2.5
+"491","Goodyear",2024,"Residential Rental",2.5
+"492","Goodyear",2024,"Restaurant and Bars",4
+"493","Goodyear",2024,"Retail Sales",2.5
+"494","Goodyear",2024,"Retail Sales Over $5000",1.2
+"495","Goodyear",2024,"TPP Rental",2.5
+"496","Guadalupe",2024,"Advertising",4
+"497","Guadalupe",2024,"Amusements",5
+"498","Guadalupe",2024,"Commercial Rental",3
+"499","Guadalupe",2024,"Contracting-Owner Builder",4
+"500","Guadalupe",2024,"Contracting-Prime",4
+"501","Guadalupe",2024,"Contracting-Speculative Builders",4
+"502","Guadalupe",2024,"Hotel/Motel Additional",6
+"503","Guadalupe",2024,"Hotels",4
+"504","Guadalupe",2024,"Job Printing",4
+"505","Guadalupe",2024,"Manufactured Buildings",4
+"506","Guadalupe",2024,"Publication",4
+"507","Guadalupe",2024,"Residential Rental",3
+"508","Guadalupe",2024,"Restaurant and Bars",5
+"509","Guadalupe",2024,"TPP Rental",4
+"510","Hayden",2024,"Advertising",3
+"511","Hayden",2024,"Amusements",3
+"512","Hayden",2024,"Commercial Rental",3
+"513","Hayden",2024,"Contracting-Owner Builder",3
+"514","Hayden",2024,"Contracting-Prime",3
+"515","Hayden",2024,"Contracting-Speculative Builders",3
+"516","Hayden",2024,"Feed at Wholesale",3
+"517","Hayden",2024,"Hotel/Motel Additional",2
+"518","Hayden",2024,"Hotels",3
+"519","Hayden",2024,"Job Printing",3
+"520","Hayden",2024,"Manufactured Buildings",3
+"521","Hayden",2024,"Publication",3
+"522","Hayden",2024,"Rental Occupancy",3
+"523","Hayden",2024,"Residential Rental",3
+"524","Hayden",2024,"Restaurant and Bars",3
+"525","Hayden",2024,"TPP Rental",3
+"526","Holbrook",2024,"Amusements",3
+"527","Holbrook",2024,"Commercial Rental",3
+"528","Holbrook",2024,"Contracting-Owner Builder",3
+"529","Holbrook",2024,"Contracting-Prime",3
+"530","Holbrook",2024,"Contracting-Speculative Builders",3
+"531","Holbrook",2024,"Hotel/Motel Additional",2
+"532","Holbrook",2024,"Hotels",3
+"533","Holbrook",2024,"Job Printing",3
+"534","Holbrook",2024,"Manufactured Buildings",3
+"535","Holbrook",2024,"Publication",3
+"536","Holbrook",2024,"Residential Rental",3
+"537","Holbrook",2024,"Restaurant and Bars",3
+"538","Holbrook",2024,"Retail Sales",3
+"539","Holbrook",2024,"TPP Rental",3
+"540","Huachuca City",2024,"Advertising",1.9
+"541","Huachuca City",2024,"Amusements",1.9
+"542","Huachuca City",2024,"Commercial Rental",1
+"543","Huachuca City",2024,"Contracting-Owner Builder",1.9
+"544","Huachuca City",2024,"Contracting-Prime",1.9
+"545","Huachuca City",2024,"Contracting-Speculative Builders",1.9
+"546","Huachuca City",2024,"Hotels",1.9
+"547","Huachuca City",2024,"Job Printing",1.9
+"548","Huachuca City",2024,"Manufactured Buildings",1.9
+"549","Huachuca City",2024,"Publication",1.9
+"550","Huachuca City",2024,"Residential Rental",1
+"551","Huachuca City",2024,"Restaurant and Bars",1.9
+"552","Huachuca City",2024,"Retail Sales",1.9
+"553","Huachuca City",2024,"TPP Rental",1.9
+"554","Jerome",2024,"Advertising",3.5
+"555","Jerome",2024,"Amusements",3.5
+"556","Jerome",2024,"Contracting-Owner Builder",3
+"557","Jerome",2024,"Contracting-Prime",3
+"558","Jerome",2024,"Contracting-Speculative Builders",3
+"559","Jerome",2024,"Hotel/Motel Additional",3
+"560","Jerome",2024,"Hotels",3.5
+"561","Jerome",2024,"Job Printing",3.5
+"562","Jerome",2024,"Manufactured Buildings",3.5
+"563","Jerome",2024,"Publication",3.5
+"564","Jerome",2024,"Restaurant and Bars",4.5
+"565","Jerome",2024,"Retail Sales",3.5
+"566","Jerome",2024,"TPP Rental",3.5
+"567","Kearny",2024,"Advertising",4
+"568","Kearny",2024,"Amusements",4
+"569","Kearny",2024,"Commercial Rental",2.5
+"570","Kearny",2024,"Contracting-Owner Builder",4
+"571","Kearny",2024,"Contracting-Prime",4
+"572","Kearny",2024,"Contracting-Speculative Builders",4
+"573","Kearny",2024,"Hotel/Motel Additional",4
+"574","Kearny",2024,"Hotels",4
+"575","Kearny",2024,"Job Printing",4
+"576","Kearny",2024,"Manufactured Buildings",4
+"577","Kearny",2024,"Publication",4
+"578","Kearny",2024,"Residential Rental",2.5
+"579","Kearny",2024,"Restaurant and Bars",4
+"580","Kearny",2024,"TPP Rental",4
+"581","Kingman",2024,"Advertising",2.5
+"582","Kingman",2024,"Amusements",2.5
+"583","Kingman",2024,"Commercial Rental",2
+"584","Kingman",2024,"Contracting-Owner Builder",2.5
+"585","Kingman",2024,"Contracting-Prime",2.5
+"586","Kingman",2024,"Contracting-Speculative Builders",2.5
+"587","Kingman",2024,"Hotel/Motel Additional",4
+"588","Kingman",2024,"Hotels",2.5
+"589","Kingman",2024,"Job Printing",2.5
+"590","Kingman",2024,"Manufactured Buildings",2.5
+"591","Kingman",2024,"Publication",2.5
+"592","Kingman",2024,"Residential Rental",2
+"593","Kingman",2024,"Restaurant Additional Tax",1
+"594","Kingman",2024,"Restaurant and Bars",2.5
+"595","Kingman",2024,"TPP Rental",2.5
+"596","Lake Havasu City",2024,"Amusements",2
+"597","Lake Havasu City",2024,"Contracting-Owner Builder",2
+"598","Lake Havasu City",2024,"Contracting-Prime",2
+"599","Lake Havasu City",2024,"Contracting-Speculative Builders",2
+"600","Lake Havasu City",2024,"Hotel/Motel Additional",3
+"601","Lake Havasu City",2024,"Hotels",2
+"602","Lake Havasu City",2024,"Jet Fuel",0.03
+"603","Lake Havasu City",2024,"Job Printing",2
+"604","Lake Havasu City",2024,"Manufactured Buildings",2
+"605","Lake Havasu City",2024,"Publication",2
+"606","Lake Havasu City",2024,"Rental Occupancy",2
+"607","Lake Havasu City",2024,"Restaurant Additional Tax",1
+"608","Lake Havasu City",2024,"Restaurant and Bars",2
+"609","Lake Havasu City",2024,"Retail Sales",2
+"610","Lake Havasu City",2024,"TPP Rental",2
+"611","Litchfield Park",2024,"Advertising",2.8
+"612","Litchfield Park",2024,"Amusements",2.8
+"613","Litchfield Park",2024,"Commercial Rental",2.8
+"614","Litchfield Park",2024,"Contracting-Owner Builder",4.8
+"615","Litchfield Park",2024,"Contracting-Prime",4.8
+"616","Litchfield Park",2024,"Contracting-Speculative Builders",4.8
+"617","Litchfield Park",2024,"Hotel/Motel Additional",1
+"618","Litchfield Park",2024,"Hotels",2.8
+"619","Litchfield Park",2024,"Job Printing",2.8
+"620","Litchfield Park",2024,"Manufactured Buildings",2.8
+"621","Litchfield Park",2024,"Publication",2.8
+"622","Litchfield Park",2024,"Residential Rental",2.8
+"623","Litchfield Park",2024,"Restaurant and Bars",2.8
+"624","Litchfield Park",2024,"TPP Rental",2.8
+"625","Mammoth",2024,"Advertising",4
+"626","Mammoth",2024,"Amusements",4
+"627","Mammoth",2024,"Commercial Rental",4
+"628","Mammoth",2024,"Contracting-Owner Builder",4
+"629","Mammoth",2024,"Contracting-Prime",4
+"630","Mammoth",2024,"Contracting-Speculative Builders",4
+"631","Mammoth",2024,"Hotel/Motel Additional",4
+"632","Mammoth",2024,"Hotels",4
+"633","Mammoth",2024,"Job Printing",4
+"634","Mammoth",2024,"Manufactured Buildings",4
+"635","Mammoth",2024,"Publication",4
+"636","Mammoth",2024,"Residential Rental",2
+"637","Mammoth",2024,"Restaurant and Bars",4
+"638","Mammoth",2024,"TPP Rental",4
+"639","Marana",2024,"Amusements",2.5
+"640","Marana",2024,"Commercial Rental",2.5
+"641","Marana",2024,"Contracting-Owner Builder",4
+"642","Marana",2024,"Contracting-Prime",4
+"643","Marana",2024,"Contracting-Speculative Builders",4
+"644","Marana",2024,"Hotel/Motel Additional",6
+"645","Marana",2024,"Hotels",2.5
+"646","Marana",2024,"Job Printing",2.5
+"647","Marana",2024,"Manufactured Buildings",2
+"648","Marana",2024,"Publication",2.5
+"649","Marana",2024,"Rental Occupancy",2.5
+"650","Marana",2024,"Restaurant and Bars",2.5
+"651","Marana",2024,"Retail Sales",2.5
+"652","Marana",2024,"TPP Rental",2.5
+"653","Maricopa",2024,"Advertising",2
+"654","Maricopa",2024,"Amusements",2
+"655","Maricopa",2024,"Commercial Rental",2
+"656","Maricopa",2024,"Contracting-Owner Builder",3.5
+"657","Maricopa",2024,"Contracting-Prime",3.5
+"658","Maricopa",2024,"Contracting-Speculative Builders",3.5
+"659","Maricopa",2024,"Hotel/Motel Additional",5.5
+"660","Maricopa",2024,"Hotels",2
+"661","Maricopa",2024,"Job Printing",2
+"662","Maricopa",2024,"Manufactured Buildings",2
+"663","Maricopa",2024,"Publication",2
+"664","Maricopa",2024,"Residential Rental",2
+"665","Maricopa",2024,"Restaurant and Bars",2
+"666","Maricopa",2024,"TPP Rental",2
+"667","Mesa",2024,"Advertising",2
+"668","Mesa",2024,"Amusements",2
+"669","Mesa",2024,"Commercial Rental",2
+"670","Mesa",2024,"Contracting-Owner Builder",2
+"671","Mesa",2024,"Contracting-Prime",2
+"672","Mesa",2024,"Contracting-Speculative Builders",2
+"673","Mesa",2024,"Hotel/Motel Additional",5
+"674","Mesa",2024,"Hotels",2
+"675","Mesa",2024,"Jet Fuel",0.03
+"676","Mesa",2024,"Job Printing",2
+"677","Mesa",2024,"Manufactured Buildings",2
+"678","Mesa",2024,"Publication",2
+"679","Mesa",2024,"Residential Rental",2
+"680","Mesa",2024,"Restaurant and Bars",2
+"681","Mesa",2024,"Retail Sales",2
+"682","Mesa",2024,"TPP Rental",2
+"683","Miami",2024,"Advertising",2.5
+"684","Miami",2024,"Amusements",2.5
+"685","Miami",2024,"Commercial Rental",2.5
+"686","Miami",2024,"Contracting-Owner Builder",2.5
+"687","Miami",2024,"Contracting-Prime",2.5
+"688","Miami",2024,"Contracting-Speculative Builders",2.5
+"689","Miami",2024,"Hotels",2.5
+"690","Miami",2024,"Job Printing",2.5
+"691","Miami",2024,"Manufactured Buildings",2.5
+"692","Miami",2024,"Publication",2.5
+"693","Miami",2024,"Residential Rental",2.5
+"694","Miami",2024,"Restaurant and Bars",2.5
+"695","Miami",2024,"TPP Rental",2.5
+"696","Nogales",2024,"Advertising",2
+"697","Nogales",2024,"Amusements",2
+"698","Nogales",2024,"Commercial Rental",2
+"699","Nogales",2024,"Contracting-Owner Builder",2
+"700","Nogales",2024,"Contracting-Prime",2
+"701","Nogales",2024,"Contracting-Speculative Builders",2
+"702","Nogales",2024,"Hotel/Motel Additional",4
+"703","Nogales",2024,"Hotels",2
+"704","Nogales",2024,"Job Printing",2
+"705","Nogales",2024,"Manufactured Buildings",2
+"706","Nogales",2024,"Publication",2
+"707","Nogales",2024,"Residential Rental",2
+"708","Nogales",2024,"Restaurant and Bars",2
+"709","Nogales",2024,"Retail Sales",2
+"710","Nogales",2024,"TPP Rental",2
+"711","Oro Valley",2024,"Advertising",2.5
+"712","Oro Valley",2024,"Amusements",2.5
+"713","Oro Valley",2024,"Contracting-Owner Builder",4
+"714","Oro Valley",2024,"Contracting-Prime",4
+"715","Oro Valley",2024,"Contracting-Speculative Builders",4
+"716","Oro Valley",2024,"Hotel/Motel Additional",6
+"717","Oro Valley",2024,"Hotels",2.5
+"718","Oro Valley",2024,"Job Printing",2.5
+"719","Oro Valley",2024,"Manufactured Buildings",2.5
+"720","Oro Valley",2024,"Publication",2.5
+"721","Oro Valley",2024,"Rental Occupancy",2
+"722","Page",2024,"Advertising",3
+"723","Page",2024,"Amusements",3
+"724","Page",2024,"Commercial Rental",3
+"725","Page",2024,"Contracting-Owner Builder",3
+"726","Page",2024,"Contracting-Prime",3
+"727","Page",2024,"Contracting-Speculative Builders",3
+"728","Page",2024,"Food for Home Consumption",3
+"729","Page",2024,"Hotel/Motel Additional",4.263
+"730","Page",2024,"Hotels",3
+"731","Page",2024,"Job Printing",3
+"732","Page",2024,"Manufactured Buildings",3
+"733","Page",2024,"Publication",3
+"734","Page",2024,"Residential Rental",3
+"735","Page",2024,"Restaurant and Bars",4
+"736","Page",2024,"Retail Sales",3
+"737","Page",2024,"Retail Sales Over $3000",2
+"738","Page",2024,"TPP Rental",3
+"739","Paradise Valley",2024,"Advertising",2.5
+"740","Paradise Valley",2024,"Amusements",2.5
+"741","Paradise Valley",2024,"Commercial Lease Additional",0.85
+"742","Paradise Valley",2024,"Commercial Rental",1.65
+"743","Paradise Valley",2024,"Contracting-Owner Builder",2.5
+"744","Paradise Valley",2024,"Contracting-Prime",2.5
+"745","Paradise Valley",2024,"Contracting-Speculative Builders",2.5
+"746","Paradise Valley",2024,"Hotel/Motel Additional",3.4
+"747","Paradise Valley",2024,"Hotels",2.5
+"748","Paradise Valley",2024,"Job Printing",2.5
+"749","Paradise Valley",2024,"Manufactured Buildings",2.5
+"750","Paradise Valley",2024,"Publication",2.5
+"751","Paradise Valley",2024,"Rental Occupancy",1.65
+"752","Paradise Valley",2024,"Residential Rental",1.65
+"753","Paradise Valley",2024,"Restaurant and Bars",2.5
+"754","Paradise Valley",2024,"TPP Rental",2.5
+"755","Parker",2024,"Advertising",2
+"756","Parker",2024,"Amusements",2
+"757","Parker",2024,"Commercial Rental",2
+"758","Parker",2024,"Contracting-Owner Builder",2
+"759","Parker",2024,"Contracting-Prime",2
+"760","Parker",2024,"Contracting-Speculative Builders",2
+"761","Parker",2024,"Hotel/Motel Additional",4
+"762","Parker",2024,"Hotels",2
+"763","Parker",2024,"Job Printing",2
+"764","Parker",2024,"Manufactured Buildings",2
+"765","Parker",2024,"Publication",2
+"766","Parker",2024,"Residential Rental",2
+"767","Parker",2024,"Restaurant and Bars",4
+"768","Parker",2024,"TPP Rental",2
+"769","Patagonia",2024,"Advertising",3
+"770","Patagonia",2024,"Amusements",3
+"771","Patagonia",2024,"Commercial Rental",3
+"772","Patagonia",2024,"Contracting-Owner Builder",3
+"773","Patagonia",2024,"Contracting-Prime",3
+"774","Patagonia",2024,"Contracting-Speculative Builders",3
+"775","Patagonia",2024,"Feed at Wholesale",3
+"776","Patagonia",2024,"Hotel/Motel Additional",3
+"777","Patagonia",2024,"Hotels",3
+"778","Patagonia",2024,"Job Printing",3
+"779","Patagonia",2024,"Manufactured Buildings",3
+"780","Patagonia",2024,"Publication",3
+"781","Patagonia",2024,"Rental Occupancy",3
+"782","Patagonia",2024,"Residential Rental",3
+"783","Patagonia",2024,"Restaurant and Bars",3
+"784","Patagonia",2024,"TPP Rental",3
+"785","Payson",2024,"Advertising",2.88
+"786","Payson",2024,"Amusements",2.88
+"787","Payson",2024,"Commercial Rental",2.88
+"788","Payson",2024,"Contracting-Owner Builder",2.88
+"789","Payson",2024,"Contracting-Prime",2.88
+"790","Payson",2024,"Contracting-Speculative Builders",2.88
+"791","Payson",2024,"Hotel/Motel Additional",5
+"792","Payson",2024,"Hotels",2.88
+"793","Payson",2024,"Job Printing",2.88
+"794","Payson",2024,"Manufactured Buildings",2.88
+"795","Payson",2024,"Publication",2.88
+"796","Payson",2024,"Rental Occupancy",2
+"797","Payson",2024,"Restaurant and Bars",2.88
+"798","Payson",2024,"TPP Rental",2.88
+"799","Peoria",2024,"Advertising",1.8
+"800","Peoria",2024,"Amusements",2.8
+"801","Peoria",2024,"Commercial Rental",1.8
+"802","Peoria",2024,"Contracting-Owner Builder",1.8
+"803","Peoria",2024,"Contracting-Prime",1.8
+"804","Peoria",2024,"Contracting-Speculative Builders",1.8
+"805","Peoria",2024,"Hotel/Motel Additional",3.8
+"806","Peoria",2024,"Hotels",1.8
+"807","Peoria",2024,"Job Printing",1.8
+"808","Peoria",2024,"Manufactured Buildings",1.8
+"809","Peoria",2024,"Publication",1.8
+"810","Peoria",2024,"Rental Occupancy",1.8
+"811","Peoria",2024,"Residential Rental",1.8
+"812","Peoria",2024,"Restaurant and Bars",2.8
+"813","Peoria",2024,"Retail Sales",1.8
+"814","Peoria",2024,"TPP Rental",1.8
+"815","Phoenix",2024,"Advertising",0.5
+"816","Phoenix",2024,"Amusements",2.3
+"817","Phoenix",2024,"Commercial Lease Additional",0.1
+"818","Phoenix",2024,"Commercial Rental",2.3
+"819","Phoenix",2024,"Contracting-Owner Builder",2.3
+"820","Phoenix",2024,"Contracting-Prime",2.3
+"821","Phoenix",2024,"Contracting-Speculative Builders",2.3
+"822","Phoenix",2024,"Hotel/Motel Additional",3
+"823","Phoenix",2024,"Hotels",2.3
+"824","Phoenix",2024,"Jet Fuel",0.00732
+"825","Phoenix",2024,"Job Printing",2.3
+"826","Phoenix",2024,"Manufactured Buildings",2.3
+"827","Phoenix",2024,"Publication",2.3
+"828","Phoenix",2024,"Rental Occupancy",2.3
+"829","Phoenix",2024,"Residential Rental",2.3
+"830","Phoenix",2024,"Restaurant and Bars",2.3
+"831","Phoenix",2024,"Retail Sales Over $13886",2
+"832","Phoenix",2024,"Short-Term Motor Vehicle Additional",2
+"833","Phoenix",2024,"TPP Rental",2.3
+"834","Pima",2024,"Advertising",2
+"835","Pima",2024,"Amusements",2
+"836","Pima",2024,"Commercial Rental",2
+"837","Pima",2024,"Contracting-Owner Builder",3
+"838","Pima",2024,"Contracting-Prime",3
+"839","Pima",2024,"Contracting-Speculative Builders",3
+"840","Pima",2024,"Hotels",2
+"841","Pima",2024,"Job Printing",2
+"842","Pima",2024,"Manufactured Buildings",2
+"843","Pima",2024,"Publication",2
+"844","Pima",2024,"Residential Rental",2
+"845","Pima",2024,"Restaurant and Bars",2
+"846","Pima",2024,"Retail Sales",2
+"847","Pima",2024,"TPP Rental",2
+"848","Pinetop-Lakeside",2024,"Advertising",3
+"849","Pinetop-Lakeside",2024,"Amusements",3
+"850","Pinetop-Lakeside",2024,"Commercial Rental",3
+"851","Pinetop-Lakeside",2024,"Contracting-Owner Builder",3
+"852","Pinetop-Lakeside",2024,"Contracting-Prime",3
+"853","Pinetop-Lakeside",2024,"Contracting-Speculative Builders",3
+"854","Pinetop-Lakeside",2024,"Hotel/Motel Additional",3
+"855","Pinetop-Lakeside",2024,"Hotels",3
+"856","Pinetop-Lakeside",2024,"Job Printing",3
+"857","Pinetop-Lakeside",2024,"Manufactured Buildings",3
+"858","Pinetop-Lakeside",2024,"Publication",3
+"859","Pinetop-Lakeside",2024,"Residential Rental",3
+"860","Pinetop-Lakeside",2024,"Restaurant Additional Tax",2
+"861","Pinetop-Lakeside",2024,"Restaurant and Bars",3
+"862","Pinetop-Lakeside",2024,"Retail Sales",3
+"863","Pinetop-Lakeside",2024,"Retail Sales Over $5000",1.5
+"864","Pinetop-Lakeside",2024,"TPP Rental",3
+"865","Prescott",2024,"Advertising",2
+"866","Prescott",2024,"Amusements",2
+"867","Prescott",2024,"Commercial Rental",2
+"868","Prescott",2024,"Contracting-Owner Builder",2
+"869","Prescott",2024,"Contracting-Prime",2
+"870","Prescott",2024,"Contracting-Speculative Builders",2
+"871","Prescott",2024,"Feed at Wholesale",2
+"872","Prescott",2024,"Hotel/Motel Additional",3
+"873","Prescott",2024,"Hotels",2
+"874","Prescott",2024,"Jet Fuel",0.015
+"875","Prescott",2024,"Job Printing",2
+"876","Prescott",2024,"Manufactured Buildings",2
+"877","Prescott",2024,"Publication",2
+"878","Prescott",2024,"Residential Rental",2
+"879","Prescott",2024,"Restaurant and Bars",2
+"880","Prescott",2024,"TPP Rental",2
+"881","Prescott Valley",2024,"Advertising",2.83
+"882","Prescott Valley",2024,"Amusements",2.83
+"883","Prescott Valley",2024,"Contracting-Owner Builder",2.83
+"884","Prescott Valley",2024,"Contracting-Prime",2.83
+"885","Prescott Valley",2024,"Contracting-Speculative Builders",2.83
+"886","Prescott Valley",2024,"Hotel/Motel Additional",2.83
+"887","Prescott Valley",2024,"Hotels",2.83
+"888","Prescott Valley",2024,"Job Printing",2.83
+"889","Prescott Valley",2024,"Manufactured Buildings",2.83
+"890","Prescott Valley",2024,"Publication",2.83
+"891","Prescott Valley",2024,"Restaurant and Bars",2.83
+"892","Prescott Valley",2024,"Retail Sales",2.83
+"893","Prescott Valley",2024,"TPP Rental",2.83
+"894","Prescott Valley",2024,"Wastewater Services",2.83
+"895","Quartzsite",2024,"Amusements",2.5
+"896","Quartzsite",2024,"Commercial Rental",2.5
+"897","Quartzsite",2024,"Contracting-Owner Builder",3.5
+"898","Quartzsite",2024,"Contracting-Prime",3.5
+"899","Quartzsite",2024,"Contracting-Speculative Builders",3.5
+"900","Quartzsite",2024,"Hotels",5.5
+"901","Quartzsite",2024,"Job Printing",2.5
+"902","Quartzsite",2024,"Manufactured Buildings",3.5
+"903","Quartzsite",2024,"Publication",2.5
+"904","Quartzsite",2024,"Restaurant and Bars",3
+"905","Quartzsite",2024,"Retail Sales",2.5
+"906","Quartzsite",2024,"Retail Sales Over $10000",1
+"907","Quartzsite",2024,"TPP Rental",2.5
+"908","Queen Creek",2024,"Advertising",2.25
+"909","Queen Creek",2024,"Amusements",2.25
+"910","Queen Creek",2024,"Commercial Rental",2.25
+"911","Queen Creek",2024,"Contracting-Owner Builder",4.25
+"912","Queen Creek",2024,"Contracting-Prime",4.25
+"913","Queen Creek",2024,"Contracting-Speculative Builders",4.25
+"914","Queen Creek",2024,"Food for Home Consumption",2.25
+"915","Queen Creek",2024,"Hotel/Motel Additional",3
+"916","Queen Creek",2024,"Hotels",2.25
+"917","Queen Creek",2024,"Job Printing",2.25
+"918","Queen Creek",2024,"Manufactured Buildings",2.25
+"919","Queen Creek",2024,"Publication",2.25
+"920","Queen Creek",2024,"Residential Rental",2.25
+"921","Queen Creek",2024,"Restaurant and Bars",2.25
+"922","Queen Creek",2024,"Retail Sales",2.25
+"923","Queen Creek",2024,"TPP Rental",2.25
+"924","Queen Creek Special District",2024,"Amusements",2.5
+"925","Queen Creek Special District",2024,"Food for Home Consumption",2.5
+"926","Queen Creek Special District",2024,"Hotels",2.5
+"927","Queen Creek Special District",2024,"Job Printing",2.5
+"928","Queen Creek Special District",2024,"Publication",2.5
+"929","Queen Creek Special District",2024,"Restaurant and Bars",2.5
+"930","Queen Creek Special District",2024,"Retail Sales",2.5
+"931","Safford",2024,"Advertising",2.5
+"932","Safford",2024,"Amusements",2.5
+"933","Safford",2024,"Commercial Rental",2.5
+"934","Safford",2024,"Contracting-Prime",2.5
+"935","Safford",2024,"Contracting-Speculative Builders",2.5
+"936","Safford",2024,"Feed at Wholesale",2.5
+"937","Safford",2024,"Hotel/Motel Additional",5
+"938","Safford",2024,"Hotels",2.5
+"939","Safford",2024,"Job Printing",2.5
+"940","Safford",2024,"Manufactured Buildings",2.5
+"941","Safford",2024,"Publication",2.5
+"942","Safford",2024,"Rental Occupancy",2.5
+"943","Safford",2024,"Restaurant and Bars",2.5
+"944","Safford",2024,"Retail Sales Over $5000",1
+"945","Safford",2024,"TPP Rental",2.5
+"946","Sahuarita",2024,"Amusements",2
+"947","Sahuarita",2024,"Commercial Rental",2
+"948","Sahuarita",2024,"Contracting-Owner Builder",4
+"949","Sahuarita",2024,"Contracting-Prime",4
+"950","Sahuarita",2024,"Contracting-Speculative Builders",4
+"951","Sahuarita",2024,"Hotel/Motel Additional",2
+"952","Sahuarita",2024,"Hotels",2
+"953","Sahuarita",2024,"Job Printing",2
+"954","Sahuarita",2024,"Manufactured Buildings",2
+"955","Sahuarita",2024,"Publication",2
+"956","Sahuarita",2024,"TPP Rental",2
+"957","San Luis",2024,"Advertising",4
+"958","San Luis",2024,"Amusements",4
+"959","San Luis",2024,"Commercial Rental",4
+"960","San Luis",2024,"Contracting-Owner Builder",4
+"961","San Luis",2024,"Contracting-Prime",4
+"962","San Luis",2024,"Contracting-Speculative Builders",4
+"963","San Luis",2024,"Food for Home Consumption",4
+"964","San Luis",2024,"Hotels",4
+"965","San Luis",2024,"Job Printing",4
+"966","San Luis",2024,"Manufactured Buildings",4
+"967","San Luis",2024,"Publication",4
+"968","San Luis",2024,"Residential Rental",4
+"969","San Luis",2024,"Restaurant and Bars",4
+"970","San Luis",2024,"Retail Sales",4
+"971","San Luis",2024,"Retail Sales Over $2500",1.5
+"972","San Luis",2024,"TPP Rental",4
+"973","Scottsdale",2024,"Advertising",1.75
+"974","Scottsdale",2024,"Amusements",1.75
+"975","Scottsdale",2024,"Commercial Rental",1.75
+"976","Scottsdale",2024,"Contracting-Owner Builder",1.75
+"977","Scottsdale",2024,"Contracting-Prime",1.75
+"978","Scottsdale",2024,"Contracting-Speculative Builders",1.75
+"979","Scottsdale",2024,"Feed at Wholesale",1.75
+"980","Scottsdale",2024,"Hotel/Motel Additional",5
+"981","Scottsdale",2024,"Hotels",1.75
+"982","Scottsdale",2024,"Jet Fuel",0.018
+"983","Scottsdale",2024,"Job Printing",1.75
+"984","Scottsdale",2024,"Manufactured Buildings",1.75
+"985","Scottsdale",2024,"Publication",1.75
+"986","Scottsdale",2024,"Residential Rental",1.75
+"987","Scottsdale",2024,"Restaurant and Bars",1.75
+"988","Scottsdale",2024,"Retail Sales",1.75
+"989","Scottsdale",2024,"TPP Rental",1.75
+"990","Sedona",2024,"Amusements",3.5
+"991","Sedona",2024,"Commercial Rental",3.5
+"992","Sedona",2024,"Contracting-Owner Builder",3.5
+"993","Sedona",2024,"Contracting-Prime",3.5
+"994","Sedona",2024,"Contracting-Speculative Builders",3.5
+"995","Sedona",2024,"Hotel/Motel Additional",3.5
+"996","Sedona",2024,"Hotels",3.5
+"997","Sedona",2024,"Job Printing",3.5
+"998","Sedona",2024,"Manufactured Buildings",3.5
+"999","Sedona",2024,"Publication",3.5
+"1000","Sedona",2024,"Restaurant and Bars",3.5
+"1001","Sedona",2024,"Retail Sales",3.5
+"1002","Sedona",2024,"TPP Rental",3.5
+"1003","Show Low",2024,"Advertising",2
+"1004","Show Low",2024,"Amusements",2
+"1005","Show Low",2024,"Commercial Rental",2
+"1006","Show Low",2024,"Contracting-Owner Builder",2
+"1007","Show Low",2024,"Contracting-Prime",2
+"1008","Show Low",2024,"Contracting-Speculative Builders",2
+"1009","Show Low",2024,"Hotel/Motel Additional",3
+"1010","Show Low",2024,"Hotels",2
+"1011","Show Low",2024,"Job Printing",2
+"1012","Show Low",2024,"Manufactured Buildings",2
+"1013","Show Low",2024,"Publication",2
+"1014","Show Low",2024,"Restaurant and Bars",2
+"1015","Show Low",2024,"Retail Sales",2
+"1016","Show Low",2024,"TPP Rental",2
+"1017","Sierra Vista",2024,"Advertising",1.95
+"1018","Sierra Vista",2024,"Amusements",1.95
+"1019","Sierra Vista",2024,"Commercial Rental",1
+"1020","Sierra Vista",2024,"Contracting-Prime",1.95
+"1021","Sierra Vista",2024,"Extended Stay",5.5
+"1022","Sierra Vista",2024,"Feed at Wholesale",1.95
+"1023","Sierra Vista",2024,"Jet Fuel",0.02
+"1024","Sierra Vista",2024,"Job Printing",1.95
+"1025","Sierra Vista",2024,"Manufactured Buildings",1.95
+"1026","Sierra Vista",2024,"Publication",1.95
+"1027","Sierra Vista",2024,"Residential Rental",1
+"1028","Sierra Vista",2024,"Restaurant and Bars",2.6
+"1029","Sierra Vista",2024,"TPP Rental",1.95
+"1030","Snowflake",2024,"Advertising",3
+"1031","Snowflake",2024,"Amusements",3
+"1032","Snowflake",2024,"Commercial Rental",2
+"1033","Snowflake",2024,"Contracting-Owner Builder",3
+"1034","Snowflake",2024,"Contracting-Prime",3
+"1035","Snowflake",2024,"Contracting-Speculative Builders",3
+"1036","Snowflake",2024,"Food for Home Consumption",3
+"1037","Snowflake",2024,"Hotel/Motel Additional",4
+"1038","Snowflake",2024,"Hotels",3
+"1039","Snowflake",2024,"Job Printing",3
+"1040","Snowflake",2024,"Manufactured Buildings",3
+"1041","Snowflake",2024,"Publication",3
+"1042","Snowflake",2024,"Restaurant and Bars",3
+"1043","Snowflake",2024,"Retail Sales",3
+"1044","Snowflake",2024,"Retail Sales Over $10000",2
+"1045","Snowflake",2024,"TPP Rental",3
+"1046","Somerton",2024,"Advertising",3.3
+"1047","Somerton",2024,"Amusements",3.3
+"1048","Somerton",2024,"Commercial Rental",3.3
+"1049","Somerton",2024,"Contracting-Owner Builder",3.3
+"1050","Somerton",2024,"Contracting-Prime",3.3
+"1051","Somerton",2024,"Contracting-Speculative Builders",3.3
+"1052","Somerton",2024,"Hotels",3.3
+"1053","Somerton",2024,"Job Printing",3.3
+"1054","Somerton",2024,"Manufactured Buildings",3.3
+"1055","Somerton",2024,"Publication",3.3
+"1056","Somerton",2024,"Residential Rental",3.3
+"1057","Somerton",2024,"Restaurant and Bars",3.3
+"1058","Somerton",2024,"Retail Sales",3.3
+"1059","Somerton",2024,"TPP Rental",3.3
+"1060","South Tucson",2024,"Advertising",5.5
+"1061","South Tucson",2024,"Amusements",5.5
+"1062","South Tucson",2024,"Commercial Rental",2.5
+"1063","South Tucson",2024,"Contracting-Owner Builder",5.5
+"1064","South Tucson",2024,"Contracting-Prime",5.5
+"1065","South Tucson",2024,"Contracting-Speculative Builders",5.5
+"1066","South Tucson",2024,"Hotel/Motel Additional",2
+"1067","South Tucson",2024,"Hotels",3.5
+"1068","South Tucson",2024,"Job Printing",5.5
+"1069","South Tucson",2024,"Manufactured Buildings",5.5
+"1070","South Tucson",2024,"Publication",5.5
+"1071","South Tucson",2024,"Residential Rental",2.5
+"1072","South Tucson",2024,"Restaurant and Bars",5.5
+"1073","South Tucson",2024,"TPP Rental",6.5
+"1074","Springerville",2024,"Advertising",3
+"1075","Springerville",2024,"Amusements",3
+"1076","Springerville",2024,"Contracting-Owner Builder",3
+"1077","Springerville",2024,"Contracting-Prime",3
+"1078","Springerville",2024,"Contracting-Speculative Builders",3
+"1079","Springerville",2024,"Hotel/Motel Additional",2
+"1080","Springerville",2024,"Hotels",3
+"1081","Springerville",2024,"Job Printing",3
+"1082","Springerville",2024,"Manufactured Buildings",3
+"1083","Springerville",2024,"Publication",3
+"1084","Springerville",2024,"Residential Rental",3
+"1085","Springerville",2024,"Restaurant and Bars",3
+"1086","Springerville",2024,"TPP Rental",3
+"1087","St Johns",2024,"Advertising",3
+"1088","St Johns",2024,"Amusements",3
+"1089","St Johns",2024,"Commercial Rental",2
+"1090","St Johns",2024,"Contracting-Owner Builder",3
+"1091","St Johns",2024,"Contracting-Prime",3
+"1092","St Johns",2024,"Contracting-Speculative Builders",3
+"1093","St Johns",2024,"Hotel/Motel Additional",3
+"1094","St Johns",2024,"Hotels",3
+"1095","St Johns",2024,"Job Printing",3
+"1096","St Johns",2024,"Manufactured Buildings",3
+"1097","St Johns",2024,"Publication",3
+"1098","St Johns",2024,"Residential Rental",2
+"1099","St Johns",2024,"Restaurant and Bars",3
+"1100","St Johns",2024,"TPP Rental",3
+"1101","Star Valley",2024,"Advertising",2
+"1102","Star Valley",2024,"Amusements",2
+"1103","Star Valley",2024,"Commercial Rental",2
+"1104","Star Valley",2024,"Contracting-Owner Builder",2
+"1105","Star Valley",2024,"Contracting-Prime",2
+"1106","Star Valley",2024,"Contracting-Speculative Builders",2
+"1107","Star Valley",2024,"Hotels",2
+"1108","Star Valley",2024,"Job Printing",2
+"1109","Star Valley",2024,"Manufactured Buildings",2
+"1110","Star Valley",2024,"Publication",2
+"1111","Star Valley",2024,"Residential Rental",2
+"1112","Star Valley",2024,"Restaurant and Bars",2
+"1113","Star Valley",2024,"Retail Sales",2
+"1114","Star Valley",2024,"TPP Rental",2
+"1115","Superior",2024,"Advertising",4
+"1116","Superior",2024,"Amusements",4
+"1117","Superior",2024,"Commercial Rental",2
+"1118","Superior",2024,"Contracting-Owner Builder",4
+"1119","Superior",2024,"Contracting-Prime",4
+"1120","Superior",2024,"Contracting-Speculative Builders",4
+"1121","Superior",2024,"Hotel/Motel Additional",4
+"1122","Superior",2024,"Hotels",4
+"1123","Superior",2024,"Job Printing",4
+"1124","Superior",2024,"Manufactured Buildings",4
+"1125","Superior",2024,"Publication",4
+"1126","Superior",2024,"Residential Rental",2
+"1127","Superior",2024,"Restaurant and Bars",4
+"1128","Superior",2024,"TPP Rental",4
+"1129","Surprise",2024,"Advertising",2.2
+"1130","Surprise",2024,"Amusements",2.2
+"1131","Surprise",2024,"Commercial Rental",2.2
+"1132","Surprise",2024,"Contracting-Owner Builder",3.7
+"1133","Surprise",2024,"Contracting-Prime",3.7
+"1134","Surprise",2024,"Contracting-Speculative Builders",3.7
+"1135","Surprise",2024,"Feed at Wholesale",2.2
+"1136","Surprise",2024,"Hotel/Motel Additional",4.52
+"1137","Surprise",2024,"Hotels",2.2
+"1138","Surprise",2024,"Job Printing",2.2
+"1139","Surprise",2024,"Manufactured Buildings",2.2
+"1140","Surprise",2024,"Publication",2.2
+"1141","Surprise",2024,"Rental Occupancy",2.2
+"1142","Surprise",2024,"Residential Rental",2.2
+"1143","Surprise",2024,"Restaurant and Bars",3.2
+"1144","Surprise",2024,"TPP Rental",2.2
+"1145","Taylor",2024,"Advertising",3
+"1146","Taylor",2024,"Amusements",3
+"1147","Taylor",2024,"Commercial Rental",2
+"1148","Taylor",2024,"Contracting-Owner Builder",3
+"1149","Taylor",2024,"Contracting-Prime",3
+"1150","Taylor",2024,"Contracting-Speculative Builders",3
+"1151","Taylor",2024,"Hotel/Motel Additional",3
+"1152","Taylor",2024,"Hotels",3
+"1153","Taylor",2024,"Job Printing",3
+"1154","Taylor",2024,"Manufactured Buildings",3
+"1155","Taylor",2024,"Publication",3
+"1156","Taylor",2024,"Residential Rental",2
+"1157","Taylor",2024,"Restaurant and Bars",3
+"1158","Taylor",2024,"TPP Rental",3
+"1159","Tempe",2024,"Advertising",1.8
+"1160","Tempe",2024,"Amusements",1.8
+"1161","Tempe",2024,"Commercial Rental",1.8
+"1162","Tempe",2024,"Contracting-Owner Builder",1.8
+"1163","Tempe",2024,"Contracting-Prime",1.8
+"1164","Tempe",2024,"Contracting-Speculative Builders",1.8
+"1165","Tempe",2024,"Hotel/Motel Additional",5
+"1166","Tempe",2024,"Hotels",1.8
+"1167","Tempe",2024,"Job Printing",1.8
+"1168","Tempe",2024,"Manufactured Buildings",1.8
+"1169","Tempe",2024,"Publication",1.8
+"1170","Tempe",2024,"Residential Rental",1.8
+"1171","Tempe",2024,"Restaurant and Bars",1.8
+"1172","Tempe",2024,"TPP Rental",1.8
+"1173","Thatcher",2024,"Advertising",2.5
+"1174","Thatcher",2024,"Amusements",2.5
+"1175","Thatcher",2024,"Commercial Rental",2
+"1176","Thatcher",2024,"Contracting-Owner Builder",3.5
+"1177","Thatcher",2024,"Contracting-Prime",3.5
+"1178","Thatcher",2024,"Contracting-Speculative Builders",3.5
+"1179","Thatcher",2024,"Hotel/Motel Additional",3
+"1180","Thatcher",2024,"Hotels",2.5
+"1181","Thatcher",2024,"Job Printing",2.5
+"1182","Thatcher",2024,"Manufactured Buildings",2.5
+"1183","Thatcher",2024,"Publication",2.5
+"1184","Thatcher",2024,"Residential Rental",2
+"1185","Thatcher",2024,"Restaurant and Bars",2.5
+"1186","Thatcher",2024,"TPP Rental",2.5
+"1187","Tolleson",2024,"Advertising",2.5
+"1188","Tolleson",2024,"Amusements",2.5
+"1189","Tolleson",2024,"Commercial Rental",2.5
+"1190","Tolleson",2024,"Contracting-Owner Builder",2.5
+"1191","Tolleson",2024,"Contracting-Prime",2.5
+"1192","Tolleson",2024,"Contracting-Speculative Builders",2.5
+"1193","Tolleson",2024,"Hotel/Motel Additional",2
+"1194","Tolleson",2024,"Hotels",2.5
+"1195","Tolleson",2024,"Job Printing",2.5
+"1196","Tolleson",2024,"Manufactured Buildings",2.5
+"1197","Tolleson",2024,"Publication",2.5
+"1198","Tolleson",2024,"Residential Rental",2.5
+"1199","Tolleson",2024,"Restaurant and Bars",2.5
+"1200","Tolleson",2024,"Retail Sales Over $5000",2
+"1201","Tolleson",2024,"TPP Rental",2.5
+"1202","Tombstone",2024,"Advertising",3.5
+"1203","Tombstone",2024,"Amusements",3.5
+"1204","Tombstone",2024,"Commercial Rental",2.5
+"1205","Tombstone",2024,"Contracting-Owner Builder",3.5
+"1206","Tombstone",2024,"Contracting-Prime",3.5
+"1207","Tombstone",2024,"Contracting-Speculative Builders",3.5
+"1208","Tombstone",2024,"Hotel/Motel Additional",4
+"1209","Tombstone",2024,"Hotels",3.5
+"1210","Tombstone",2024,"Job Printing",3.5
+"1211","Tombstone",2024,"Manufactured Buildings",3.5
+"1212","Tombstone",2024,"Publication",3.5
+"1213","Tombstone",2024,"Residential Rental",2.5
+"1214","Tombstone",2024,"Restaurant and Bars",3.5
+"1215","Tucson",2024,"Amusements",2.6
+"1216","Tucson",2024,"Bed Tax Per Night",4
+"1217","Tucson",2024,"Commercial Rental",2.6
+"1218","Tucson",2024,"Communications",2.6
+"1219","Tucson",2024,"Contracting-Owner Builder",2.6
+"1220","Tucson",2024,"Contracting-Prime",2.6
+"1221","Tucson",2024,"Contracting-Speculative Builders",2.6
+"1222","Tucson",2024,"Hotels",6
+"1223","Tucson",2024,"Job Printing",2.6
+"1224","Tucson",2024,"Manufactured Buildings",2.6
+"1225","Tucson",2024,"Public Utility Additional",4.5
+"1226","Tucson",2024,"Publication",2.6
+"1227","Tucson",2024,"Restaurant and Bars",2.6
+"1228","Tucson",2024,"Retail Sales",2.6
+"1229","Tucson",2024,"TPP Rental",2.6
+"1230","Tusayan",2024,"Advertising",2
+"1231","Tusayan",2024,"Amusements",2
+"1232","Tusayan",2024,"Commercial Rental",2
+"1233","Tusayan",2024,"Contracting-Owner Builder",2
+"1234","Tusayan",2024,"Contracting-Prime",2
+"1235","Tusayan",2024,"Contracting-Speculative Builders",2
+"1236","Tusayan",2024,"Hotel/Motel Additional",2
+"1237","Tusayan",2024,"Hotels",2
+"1238","Tusayan",2024,"Job Printing",2
+"1239","Tusayan",2024,"Manufactured Buildings",2
+"1240","Tusayan",2024,"Publication",2
+"1241","Tusayan",2024,"Restaurant and Bars",4
+"1242","Wellton",2024,"Advertising",3.5
+"1243","Wellton",2024,"Amusements",3.5
+"1244","Wellton",2024,"Commercial Rental",2.5
+"1245","Wellton",2024,"Contracting-Owner Builder",3.5
+"1246","Wellton",2024,"Contracting-Prime",3.5
+"1247","Wellton",2024,"Contracting-Speculative Builders",3.5
+"1248","Wellton",2024,"Hotel/Motel Additional",3.5
+"1249","Wellton",2024,"Hotels",3.5
+"1250","Wellton",2024,"Job Printing",3.5
+"1251","Wellton",2024,"Manufactured Buildings",3.5
+"1252","Wellton",2024,"Publication",3.5
+"1253","Wellton",2024,"Residential Rental",2.5
+"1254","Wellton",2024,"Restaurant and Bars",3.5
+"1255","Wellton",2024,"TPP Rental",3.5
+"1256","Wickenburg",2024,"Advertising",2.2
+"1257","Wickenburg",2024,"Amusements",2.2
+"1258","Wickenburg",2024,"Commercial Rental",1.7
+"1259","Wickenburg",2024,"Contracting-Owner Builder",3.5
+"1260","Wickenburg",2024,"Contracting-Prime",3.5
+"1261","Wickenburg",2024,"Contracting-Speculative Builders",3.5
+"1262","Wickenburg",2024,"Feed at Wholesale",2.2
+"1263","Wickenburg",2024,"Hotel/Motel Additional",3
+"1264","Wickenburg",2024,"Hotels",2.2
+"1265","Wickenburg",2024,"Job Printing",2.2
+"1266","Wickenburg",2024,"Manufactured Buildings",2.2
+"1267","Wickenburg",2024,"Publication",2.2
+"1268","Wickenburg",2024,"Rental Occupancy",1.7
+"1269","Wickenburg",2024,"Residential Rental",1.7
+"1270","Wickenburg",2024,"Restaurant and Bars",2.2
+"1271","Wickenburg",2024,"TPP Rental",2.2
+"1272","Willcox",2024,"Advertising",3
+"1273","Willcox",2024,"Amusements",3
+"1274","Willcox",2024,"Commercial Rental",3
+"1275","Willcox",2024,"Contracting-Owner Builder",3
+"1276","Willcox",2024,"Contracting-Prime",3
+"1277","Willcox",2024,"Contracting-Speculative Builders",3
+"1278","Willcox",2024,"Hotel/Motel Additional",4
+"1279","Willcox",2024,"Hotels",3
+"1280","Willcox",2024,"Job Printing",3
+"1281","Willcox",2024,"Manufactured Buildings",3
+"1282","Willcox",2024,"Publication",3
+"1283","Willcox",2024,"Restaurant and Bars",3
+"1284","Willcox",2024,"Retail Sales",3
+"1285","Willcox",2024,"Retail Sales Over $1250",2
+"1286","Willcox",2024,"TPP Rental",3
+"1287","Williams",2024,"Advertising",3.5
+"1288","Williams",2024,"Amusements",3.5
+"1289","Williams",2024,"Commercial Rental",3
+"1290","Williams",2024,"Contracting-Owner Builder",3.5
+"1291","Williams",2024,"Contracting-Prime",3.5
+"1292","Williams",2024,"Contracting-Speculative Builders",3.5
+"1293","Williams",2024,"Hotels",4.5
+"1294","Williams",2024,"Job Printing",3.5
+"1295","Williams",2024,"Manufactured Buildings",3.5
+"1296","Williams",2024,"Publication",3.5
+"1297","Williams",2024,"Residential Rental",3
+"1298","Williams",2024,"Restaurant and Bars",4.5
+"1299","Williams",2024,"Retail Sales",3.5
+"1300","Williams",2024,"TPP Rental",3.5
+"1301","Winkelman",2024,"Advertising",3.5
+"1302","Winkelman",2024,"Amusements",3.5
+"1303","Winkelman",2024,"Commercial Rental",3.5
+"1304","Winkelman",2024,"Contracting-Owner Builder",3.5
+"1305","Winkelman",2024,"Contracting-Prime",3.5
+"1306","Winkelman",2024,"Contracting-Speculative Builders",3.5
+"1307","Winkelman",2024,"Hotels",3.5
+"1308","Winkelman",2024,"Job Printing",3.5
+"1309","Winkelman",2024,"Manufactured Buildings",3.5
+"1310","Winkelman",2024,"Publication",3.5
+"1311","Winkelman",2024,"Residential Rental",3.5
+"1312","Winkelman",2024,"Restaurant and Bars",3.5
+"1313","Winkelman",2024,"Retail Sales",3.5
+"1314","Winkelman",2024,"TPP Rental",3.5
+"1315","Winslow",2024,"Advertising",3
+"1316","Winslow",2024,"Amusements",3
+"1317","Winslow",2024,"Commercial Rental",3
+"1318","Winslow",2024,"Contracting-Owner Builder",3
+"1319","Winslow",2024,"Contracting-Prime",3
+"1320","Winslow",2024,"Contracting-Speculative Builders",3
+"1321","Winslow",2024,"Hotel/Motel Additional",2
+"1322","Winslow",2024,"Hotels",3
+"1323","Winslow",2024,"Jet Fuel",0.03
+"1324","Winslow",2024,"Job Printing",3
+"1325","Winslow",2024,"Manufactured Buildings",3
+"1326","Winslow",2024,"Publication",3
+"1327","Winslow",2024,"Rental Occupancy",3
+"1328","Winslow",2024,"Restaurant Additional Tax",2
+"1329","Winslow",2024,"Restaurant and Bars",3
+"1330","Winslow",2024,"TPP Rental",3
+"1331","Youngtown",2024,"Advertising",3
+"1332","Youngtown",2024,"Amusements",3
+"1333","Youngtown",2024,"Commercial Rental",2
+"1334","Youngtown",2024,"Contracting-Owner Builder",3
+"1335","Youngtown",2024,"Contracting-Prime",3
+"1336","Youngtown",2024,"Contracting-Speculative Builders",3
+"1337","Youngtown",2024,"Hotel/Motel Additional",2
+"1338","Youngtown",2024,"Hotels",3
+"1339","Youngtown",2024,"Job Printing",3
+"1340","Youngtown",2024,"Manufactured Buildings",3
+"1341","Youngtown",2024,"Publication",3
+"1342","Youngtown",2024,"Residential Rental",2
+"1343","Youngtown",2024,"Restaurant and Bars",3
+"1344","Youngtown",2024,"TPP Rental",3
+"1345","Yuma",2024,"Advertising",1.7
+"1346","Yuma",2024,"Amusements",1.7
+"1347","Yuma",2024,"Commercial Rental",1.7
+"1348","Yuma",2024,"Contracting-Owner Builder",1.7
+"1349","Yuma",2024,"Contracting-Prime",1.7
+"1350","Yuma",2024,"Contracting-Speculative Builders",1.7
+"1351","Yuma",2024,"Hotel/Motel Additional",2
+"1352","Yuma",2024,"Hotels",1.7
+"1353","Yuma",2024,"Job Printing",1.7
+"1354","Yuma",2024,"Manufactured Buildings",1.7
+"1355","Yuma",2024,"Publication",1.7
+"1356","Yuma",2024,"Residential Rental",1.7
+"1357","Yuma",2024,"Restaurant Additional Tax",2
+"1358","Yuma",2024,"Restaurant and Bars",1.7
+"1359","Yuma",2024,"TPP Rental",1.7
+"1360","Yuma",2024,"Wastewater Services",1.7
