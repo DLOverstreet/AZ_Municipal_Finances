@@ -1,0 +1,10 @@
+shiny
+   shinydashboard
+   tidyverse
+   plotly
+   DT
+   scales
+   dplyr
+   shinyjs
+   shinycssloaders
+   fresh
