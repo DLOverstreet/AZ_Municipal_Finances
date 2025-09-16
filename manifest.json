@@ -5,6 +5,7 @@
     "appmode": "shiny",
     "entrypoint": "app.R"
   },
+  "platform": "4.1.0",
   "packages": {
     "R": {
       "version": "4.1.0",
@@ -18,72 +19,54 @@
     "packages": {
       "shiny": {
         "description": {
-          "Repository": "CRAN",
-          "Version": "1.7.4"
+          "Repository": "CRAN"
         }
       },
       "shinydashboard": {
         "description": {
-          "Repository": "CRAN", 
-          "Version": "0.7.2"
+          "Repository": "CRAN"
         }
       },
       "tidyverse": {
         "description": {
-          "Repository": "CRAN",
-          "Version": "2.0.0"
+          "Repository": "CRAN"
         }
       },
       "plotly": {
         "description": {
-          "Repository": "CRAN",
-          "Version": "4.10.2"
+          "Repository": "CRAN"
         }
       },
       "DT": {
         "description": {
-          "Repository": "CRAN",
-          "Version": "0.28"
+          "Repository": "CRAN"
         }
       },
       "scales": {
         "description": {
-          "Repository": "CRAN",
-          "Version": "1.2.1"
+          "Repository": "CRAN"
         }
       },
       "dplyr": {
         "description": {
-          "Repository": "CRAN",
-          "Version": "1.1.2"
+          "Repository": "CRAN"
         }
       },
       "shinyjs": {
         "description": {
-          "Repository": "CRAN",
-          "Version": "2.1.0"
+          "Repository": "CRAN"
         }
       },
       "shinycssloaders": {
         "description": {
-          "Repository": "CRAN",
-          "Version": "1.0.0"
+          "Repository": "CRAN"
         }
       },
       "fresh": {
         "description": {
-          "Repository": "CRAN",
-          "Version": "0.2.0"
+          "Repository": "CRAN"
         }
       }
-    }
-  },
-  "files": {
-    "app.R": {
-      "checksum": "5d41402abc4b2a76b9719d911017c592"
-    },
-    "merged_arizona_data.csv": {
-      "checksum": "5d41402abc4b2a76b9719d911017c593"
     }
   }
 }
